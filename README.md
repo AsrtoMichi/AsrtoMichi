@@ -1,7 +1,5 @@
-Hi, I’m @AsrtoMichi, 
-I’m interested in app creation, 
+Hi, I’m @AsrtoMichi 
 I learned python, and basch, 
-How to reach me: no way.
 
 <!---
 AsrtoMichi/AsrtoMichi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
