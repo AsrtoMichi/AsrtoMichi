@@ -1,5 +1,5 @@
 Hi, I’m @AsrtoMichi 
-I learned python, and basch, 
+I learned python, batch and marckdown
 
 <!---
 AsrtoMichi/AsrtoMichi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
