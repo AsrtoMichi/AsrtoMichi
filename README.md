@@ -1,6 +1,6 @@
 Hi, I’m @AsrtoMichi <br>
 I learned OOP like python, c++. <br>
-And other langage like batch, powershell, VBScrit and marckdown.
+And other language like batch, powershell, VBScrit and marckdown.
 
 <!---
 AsrtoMichi/AsrtoMichi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
